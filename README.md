@@ -24,7 +24,7 @@ Santa Marta, Colombia · Remoto & Relocalización
         <b>Posición actual:</b> Auxiliar de Investigación con <b>React Native</b> en la Universidad Antonio Nariño.
       </p>
       <p>
-        <b>Disponibilidad:</b> Contratación remota internacional y proyectos de alta exigencia técnica.
+        <b>Disponibilidad:</b> Contratación remota y presencial en Colombia, e internacional remoto
       </p>
     </td>
     <td width="28%" align="center" valign="middle">
