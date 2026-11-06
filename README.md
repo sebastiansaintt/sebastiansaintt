@@ -1,7 +1,7 @@
 <div align="center">
 
-# Sebastián Cardona | Software Engineer
-### Full Stack Developer & Backend Engineer
+# Sebastián Cardona | Ingeniero de Software
+### Ingeniero y Desarrollador Backend
 
 Santa Marta, Colombia · Remoto & Relocalización  
 [LinkedIn](https://linkedin.com/in/sebastiansaintt) &nbsp;|&nbsp; [GitHub](https://github.com/sebastiansaintt) &nbsp;|&nbsp; [Email](mailto:scarrdona@gmail.com)
