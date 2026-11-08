@@ -41,25 +41,6 @@ Santa Marta, Colombia · Remoto & Relocalización
 - **Capa 4 (Cloud & DevOps):** GCP · Docker · Supabase · Git
 - **Capa 5 (Testing & Observabilidad):** Pytest · Grafana
 
-### Proyectos
-
-- **[Maestro](https://github.com/sebastiansaintt/maestro) — Asistente de ventas con IA por WhatsApp + CRM web (2026)**  
-  *Python · FastAPI · SQLite · React · Gemini API · Docker · pytest*  
-  - Automaticé la atención y cotización de viajeros por WhatsApp para varias agencias de turismo, con respuestas en corto tiempo y un CRM para que una persona tome el control cuando haga falta, o monitoree una acción.
-  - Reduje de forma importante el consumo de IA agrupando mensajes seguidos antes de procesarlos, y sumé transcripción de notas de voz.
-  - Aislé los datos de cada agencia, protegí al bot con varias capas de seguridad y validé el sistema con pruebas automatizadas.
-
-- **[VEYRA](https://github.com/sebastiansaintt/car_checking) — App web (PWA) offline para inspección vehicular (2026)**  
-  *Python · FastAPI · PostgreSQL · Redis · React · TypeScript · Gemini AI · Docker*  
-  - Digitalicé una inspección técnica que se hacía en papel, con exportación automática a Excel y alertas por Gmail.
-  - Funciona sin internet y sincroniza al reconectar sin duplicar datos; el historial queda auditado y nunca se sobrescribe.
-  - Agregué dictado por voz con IA que llena el formulario hablando, con acceso seguro por roles.
-
-- **[Risk Follower](https://github.com/realprodigium/risk_follower) — Pipeline IoT de monitoreo ambiental en tiempo real (2025)**  
-  *Python · FastAPI · MQTT · WebSockets · PostgreSQL (Supabase) · ESP32 · Docker*  
-  - Construí un pipeline de datos completo: sensores ESP32 miden $\text{CO}_2$, temperatura y humedad en fermentación artesanal $\rightarrow$ base de datos $\rightarrow$ panel en vivo y exportación.
-  - Creé un motor de alertas (normal / advertencia / peligro) que abre incidentes y envía correos automáticos, con datos en vivo y acceso por roles.
-
 ### Experiencia
 
 - **Universidad Antonio Nariño (UAN) — Auxiliar de Investigación, Desarrollo Móvil (Ago. 2026 — Actualidad)**  
