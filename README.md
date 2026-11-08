@@ -35,68 +35,35 @@ Santa Marta, Colombia · Remoto & Relocalización
 
 ## Tech Stack
 
-### 01. Frontend & Movil
-
+### 01. Frontend & Mobile
 <p align="center">
-  <img src="https://devicons.io/devicons/icons/react/react.svg" width="42" height="42" alt="React"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://devicons.io/devicons/icons/tailwindcss/tailwindcss.svg" width="42" height="42" alt="Tailwind CSS"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://devicons.io/devicons/icons/react/react.svg" width="42" height="42" alt="React Native"/>
+  <img src="https://skillicons.dev/icons?i=react,tailwind" />
 </p>
-<p align="center">
-  <sub>React · Tailwind CSS · React Native</sub>
-</p>
+<p align="center"><sub>React · Tailwind CSS · React Native</sub></p>
 
 ### 02. Backend & APIs
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" />
+</p>
+<p align="center"><sub>FastAPI · Node.js · Express</sub></p>
 
+### 03. Databases & Caching
 <p align="center">
-  <img src="https://devicons.io/devicons/icons/fastapi/fastapi.svg" width="42" height="42" alt="FastAPI"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://devicons.io/devicons/icons/nodejs/nodejs-original.svg" width="42" height="42" alt="Node.js"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://devicons.io/devicons/icons/express/express-original.svg" width="42" height="42" alt="Express"/>
+  <img src="https://skillicons.dev/icons?i=postgres,redis" />
 </p>
-<p align="center">
-  <sub>FastAPI · Node.js · Express</sub>
-</p>
-
-### 03. Bases de Datos & Caching
-
-<p align="center">
-  <img src="https://devicons.io/devicons/icons/postgresql/postgresql-original.svg" width="42" height="42" alt="PostgreSQL"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://devicons.io/devicons/icons/redis/redis-original.svg" width="42" height="42" alt="Redis"/>
-</p>
-<p align="center">
-  <sub>PostgreSQL · ORM · Redis</sub>
-</p>
+<p align="center"><sub>PostgreSQL · ORM · Redis</sub></p>
 
 ### 04. Cloud & DevOps
-
 <p align="center">
-  <img src="https://devicons.io/devicons/icons/googlecloud/googlecloud-original.svg" width="42" height="42" alt="Google Cloud"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://devicons.io/devicons/icons/docker/docker-original.svg" width="42" height="42" alt="Docker"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://devicons.io/devicons/icons/supabase/supabase-original.svg" width="42" height="42" alt="Supabase"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://devicons.io/devicons/icons/git/git-original.svg" width="42" height="42" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=gcp,docker,supabase,git" />
 </p>
-<p align="center">
-  <sub>Google Cloud · Docker · Supabase · Git</sub>
-</p>
+<p align="center"><sub>Google Cloud · Docker · Supabase · Git</sub></p>
 
 ### 05. Testing & Observability
-
 <p align="center">
-  <img src="https://devicons.io/devicons/icons/pytest/pytest-original.svg" width="42" height="42" alt="Pytest"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://devicons.io/devicons/icons/grafana/grafana-original.svg" width="42" height="42" alt="Grafana"/>
+  <img src="https://skillicons.dev/icons?i=python,grafana" />
 </p>
-<p align="center">
-  <sub>Pytest · Grafana</sub>
-</p>
+<p align="center"><sub>Pytest · Grafana</sub></p>
 
 ### Experiencia
 
